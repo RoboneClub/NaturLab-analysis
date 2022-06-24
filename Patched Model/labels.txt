@@ -1,0 +1,4 @@
+0 open_water
+1 clouds
+2 rivers
+3 lakes
